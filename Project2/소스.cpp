@@ -3,7 +3,7 @@
 #include <queue>
 using namespace std;
 
-
+dddd
 struct INFO {
 	int ry, rx, by, bx, count;
 
